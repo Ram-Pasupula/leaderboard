@@ -1,0 +1,1 @@
+{"model": "demo-leaderboard/gpt3-demo", "base_model": "", "revision": "main", "private": false, "precision": "float16", "weight_type": "Original", "status": "FINISHED", "submitted_time": "2023-11-21T18:10:08Z", "model_type": "\ud83d\udfe2 : pretrained", "likes": 0, "params": 0.1, "license": "custom"}

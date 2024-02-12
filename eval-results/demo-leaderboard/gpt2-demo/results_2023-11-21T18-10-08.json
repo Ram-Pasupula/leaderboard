@@ -1,0 +1,15 @@
+{
+    "config": {
+        "model_dtype": "torch.float16", 
+        "model_name": "demo-leaderboard/gpt3-demo",
+        "model_sha": "ac3299b02780836378b9e1e68c6eead546e89f90"
+    },
+    "results": {
+        "task_name1": {
+            "metric_name": 0
+        },
+        "task_name2": {
+            "metric_name": 0.90
+        }
+    }
+}
